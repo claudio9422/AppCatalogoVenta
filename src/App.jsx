@@ -259,7 +259,7 @@ function App() {
               rel="noopener noreferrer"
               className="footer-brand-link"
             >
-              SmartSoft
+              CatálogoYa
             </a>
           </p>
         </div>
